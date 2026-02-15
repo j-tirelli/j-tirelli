@@ -5,7 +5,6 @@ I'm a full-stack developer at Kroger, building with TypeScript and React at work
 - 🔭 I’m currently working on a strategy survival game (private repo)
 
 - [Private Work commit log](https://github.com/john-tirelli-kr)
-- [Public profile](https://github.com/j-tirelli)
 
 
 <!--
